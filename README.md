@@ -21,10 +21,6 @@
 
 ## 技术栈
 
-<p>
-  <img src="./assets/skills-light.svg#gh-light-mode-only" alt="C# · Python · PowerShell · Bash / Shell · Playwright · Windows · OpenWrt · HarmonyOS">
-  <img src="./assets/skills-dark.svg#gh-dark-mode-only" alt="C# · Python · PowerShell · Bash / Shell · Playwright · Windows · OpenWrt · HarmonyOS">
-</p>
 
 ## 联系
 
