@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="124" viewBox="0 0 520 124" role="img" aria-label="C#, Python, PowerShell, Bash, Playwright, Windows, OpenWrt, HarmonyOS">
+  <g fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5">
+    <rect x="4" y="12" width="54" height="36" rx="18"/>
+    <rect x="68" y="12" width="86" height="36" rx="18"/>
+    <rect x="164" y="12" width="124" height="36" rx="18"/>
+    <rect x="298" y="12" width="136" height="36" rx="18"/>
+    <rect x="4" y="72" width="124" height="36" rx="18"/>
+    <rect x="138" y="72" width="100" height="36" rx="18"/>
+    <rect x="248" y="72" width="100" height="36" rx="18"/>
+    <rect x="358" y="72" width="124" height="36" rx="18"/>
+  </g>
+  <g fill="#0969da">
+    <circle cx="19" cy="30" r="4"/><circle cx="83" cy="30" r="4"/><circle cx="179" cy="30" r="4"/><circle cx="313" cy="30" r="4"/>
+  </g>
+  <g fill="#1a7f37">
+    <circle cx="19" cy="90" r="4"/><circle cx="153" cy="90" r="4"/><circle cx="263" cy="90" r="4"/><circle cx="373" cy="90" r="4"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" font-weight="600" fill="#1f2328">
+    <text x="31" y="35">C#</text>
+    <text x="95" y="35">Python</text>
+    <text x="191" y="35">PowerShell</text>
+    <text x="325" y="35">Bash / Shell</text>
+    <text x="31" y="95">Playwright</text>
+    <text x="165" y="95">Windows</text>
+    <text x="275" y="95">OpenWrt</text>
+    <text x="385" y="95">HarmonyOS</text>
+  </g>
+</svg>
